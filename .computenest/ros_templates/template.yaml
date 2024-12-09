@@ -137,7 +137,6 @@ Parameters:
           - ecs.gn6v
           - ecs.vgn6i-vws
           - ecs.vgn7i-vws
-          - ecs.sgn7i-vws
   InstancePassword:
     NoEcho: true
     Type: String
