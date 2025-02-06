@@ -61,7 +61,7 @@ Artifact:
         Branch: main
       RegionId: ap-southeast-1
       CommandType: RunShellScript
-      SourceImageId: "{{oos:aliyun/services/computenest/images/aliyun_3_2104_docker_26_gpu}}"
+      SourceImageId: "aliyun/services/computenest/images/aliyun_3_2104_docker_26_gpu"
       CommandContent: |-
         mkdir -p /root/application
         if [ -e "/root/code/docker-compose.yaml" ]; then cp -r "/root/code/docker-compose.yaml" "/root/application/"; fi
