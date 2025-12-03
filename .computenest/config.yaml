@@ -43,7 +43,7 @@ Service:
   ServiceType: private
   ServiceInfo:
   - Locale: zh-CN
-    ShortDescription: demo
+    ShortDescription: OpenWebUI是一个可扩展、功能丰富、用户友好的自托管Web界面，支持离线运行和多种LLM（大型语言模型）运行器。具有直观界面、响应式设计、快速响应等特性，提供Markdown和LaTeX支持、网络浏览能力、模型下载/删除等功能。支持多模型和多模态互动，可通过WebUI轻松创建Ollama模型文件。支持多用户管理和基于角色的访问控制，确保安全访问。项目正在积极改进和扩展中，支持多语言，并提供持续更新。
     Image: resources/icons/service_logo.png
     Softwares:
     - Name: open-webui
