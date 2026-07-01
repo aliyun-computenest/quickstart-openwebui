@@ -48,7 +48,7 @@ Service:
     Image: resources/icons/service_logo.png
     Softwares:
     - Name: open-webui
-      Version: v0.6.43
+      Version: v0.10.1
 Artifact:
   EcsImage:
     ArtifactType: EcsImage
